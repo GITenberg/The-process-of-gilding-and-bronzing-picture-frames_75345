@@ -1,11 +1,16 @@
 _repo: The-process-of-gilding-and-bronzing-picture-frames_75345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75345-h/images/cover.jpg
 creator:
   author:
     agent_name: Walker, Isaac H.
     gutenberg_agent_id: '57958'
     url: http://www.gutenberg.org/2009/agents/57958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75345#The-process-of-gilding-and-bronzing-picture-frames
 gutenberg_issued: '2025-02-11'
 gutenberg_type: Text
 identifiers:
